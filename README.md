@@ -9,7 +9,7 @@
 
 <h3 align="center">The last project I uploaded was something basic, the firmware was built in maybe 30 minutes, but this one is improved. Reported zero BSOD on Windows, it's working perfect.</h3>
 
-I will make one thing clear to you and that is that if you don't know how to build it, this free firmware is not for you, at least you should make an effort to get it. It was reported to me that some vendors took this free project to sell it on their servers, ridiculous. Don't pay for this project, build it yourself, otherwise, contact us, we can help you for a low price (after all, if you don't make an effort to build it, don't expect someone to do it for you for free).
+I will make one thing clear to you and that is that if you don't know how to build it, this free firmware is not for you, at least you should make an effort to get it. It was reported to me that some sellers took this free project to sell it on their servers, ridiculous. Don't pay for this project, build it yourself, otherwise, contact us, we can help you for a low price (after all, if you don't make an effort to build it, don't expect someone to do it for you for free).
 
 ###
 
